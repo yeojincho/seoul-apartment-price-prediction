@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Model Files
+models/*.pkl
+models/*.joblib
+
+# Kaggle Submission
+submissions/*.csv
+
+# Data Files
+data/
+
+# Claude Code
+AGENTS.md
