@@ -344,7 +344,7 @@ scu-apartment-price-prediction/
 | 74 Public Feedback Residual Projection Rank7 η0.80 | rank-1/2/3/4/5/6 최저점 유지 + 일곱 번째 residual projection 방향 80% 추가 | 2307.93205 |
 | 75 Public Feedback Residual Projection Rank7 η1.00 | rank-1/2/3/4/5/6 최저점 유지 + 일곱 번째 residual projection 방향의 quadratic 최저점 적용 | 2306.01424 |
 | 76 Public Feedback Orthogonal Residual Projection Rank8 θ0.20 | rank1~7 최저점 고정 + 이전 원본 실험들의 잔여 직교 방향 20% 추가 | 2305.99594 |
-| 77 Public Feedback Orthogonal Residual Projection Rank8 θ0.50 | rank1~7 최저점 고정 + 이전 원본 실험들의 잔여 직교 방향 50% 추가 | 제출 대기 |
+| 77 Public Feedback Orthogonal Residual Projection Rank8 θ0.50 | rank1~7 최저점 고정 + 이전 원본 실험들의 잔여 직교 방향 50% 추가 | 2305.97612 |
 
 ---
 
